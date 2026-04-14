@@ -1,2 +1,2 @@
 # nlp-scripts
-Practice scripts for NLB, Sound Processing etc
+Practice scripts for NLP, Sound Processing etc
